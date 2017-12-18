@@ -1,0 +1,4 @@
+- Source code added
+-using python 3
+-usage of random module which is inbulit in python
+-plan to include sleep function to make it realistic
