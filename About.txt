@@ -1,4 +1,5 @@
 - Source code added
 -using python 3
 -usage of random module which is inbulit in python
--plan to include sleep function to make it realistic
+-plan to include sleep function to make it realistic(Added using time module which is inbuilt)
+-Now it waits for 3 seconds while rolling the dices and 1 second brfore it shows the numbers
